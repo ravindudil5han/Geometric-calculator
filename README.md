@@ -1,0 +1,2 @@
+# Geometric-calculator
+Educational purposes 
